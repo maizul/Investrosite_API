@@ -1,0 +1,28 @@
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\DAL.dll.config
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\DAL.dll
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\DAL.pdb
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\EntityFramework.dll
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\EntityFramework.xml
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\new\source\repos\AdminSite\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\new\source\repos\AdminSite\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\new\source\repos\AdminSite\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\new\source\repos\AdminSite\DAL\obj\Debug\DAL.dll
+C:\Users\new\source\repos\AdminSite\DAL\obj\Debug\DAL.pdb
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\AutoMapper.dll
+C:\Users\new\source\repos\AdminSite\DAL\bin\Debug\AutoMapper.xml
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\DAL.dll.config
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\DAL.dll
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\DAL.pdb
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\AutoMapper.dll
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\EntityFramework.dll
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\AutoMapper.xml
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\EntityFramework.xml
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\obj\Debug\DAL.dll
+E:\AIUB\SEM 9\AP.NET\FINAL\AdminSite\DAL\obj\Debug\DAL.pdb
